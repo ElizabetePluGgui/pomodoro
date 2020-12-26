@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://i.imgur.com/bSVdIck.pngf" alt="Logo" width="1000">
 
-  <h3 align="center">Pomodoro by <a href="https://github.com/Lorenalgm">Lorena</a></h3>
+  <h3 align="center">Pomodoro by <a href="https://github.com/ElizabetePluGgui/pomodoro">Elizabete</a></h3>
  <br />
   <p align="center">
      Cronômetro pomodoro para gerenciamento de tempo
